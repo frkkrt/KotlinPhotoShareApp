@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161918386906",
+    "project_id": "photoshare-82813",
+    "storage_bucket": "photoshare-82813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161918386906:android:8a9c7cc3cdf9c37bb75be3",
+        "android_client_info": {
+          "package_name": "com.furkankurt.kotlin_photo_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161918386906-c3fvg6eatogakdnm3l781nc7fn4h6oek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDii12r_fUZ2R70P4o8tO4_0U5BN4KLcPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161918386906-c3fvg6eatogakdnm3l781nc7fn4h6oek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
